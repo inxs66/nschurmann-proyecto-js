@@ -5,8 +5,6 @@ const fn = () => {
     
     console.log('hola mundo');
     console.log('hola');
-    
-    
       
 
 }
